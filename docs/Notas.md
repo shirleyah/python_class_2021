@@ -1,4 +1,4 @@
-#Notas del curso "Programación en Python 2021"
+# Notas del curso "Programación en Python 2021"
 
 
 
@@ -19,7 +19,8 @@
 
 - Item 1
 - Item 2
-
+- Item 3
+- Item 4
 
 
 ## Python
@@ -28,6 +29,10 @@
 print ("¡Hola a todos!")
 ```
 
+
+```python
+print ("¡Quiero hacer un pull request!")
+```
 
 
 
