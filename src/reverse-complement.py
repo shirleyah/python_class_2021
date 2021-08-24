@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-   Shirley, Hely, Ana Beatriz	
+   Shirley Alquicira, Heladia Salgado	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
